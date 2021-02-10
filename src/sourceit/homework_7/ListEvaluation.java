@@ -178,7 +178,7 @@ public class ListEvaluation {
 		long remove1000000ElementArrayListEnd = (System.nanoTime() - mill) / 10000;
 
 		System.out.println("100.000 element removed from the end: "
-				+ remove1000000ElementArrayListEnd + "\n\n");
+				+ remove1000000ElementArrayListEnd + "\n\ns");
 
 		System.out.println("LINKED LIST\n\n");
 
